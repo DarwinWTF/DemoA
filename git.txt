@@ -1,3 +1,4 @@
- git push -u origin https://github.com/DarwinWTF/DemoA.git
+ git checkout -b kthwork
+git push --set-upstream origin kthwork
  git push origin master
- git branch -d kthwork
+ 
